@@ -199,3 +199,6 @@
 [submodule "Plugins/ItaiMarom.LibreHardwareMonitorPlugin"]
 	path = Plugins/ItaiMarom.LibreHardwareMonitorPlugin
 	url = https://github.com/dominic25/ItaiMarom.LibreHardwareMonitorPlugin
+[submodule "IconPacks/Ruyeex.BlenderToolbarIcons"]
+	path = IconPacks/Ruyeex.BlenderToolbarIcons
+	url = https://github.com/Ruyeex/Ruyeex.BlenderToolbarIcons
